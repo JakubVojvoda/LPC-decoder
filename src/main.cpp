@@ -1,7 +1,10 @@
 /*
- *  Simple LPC decoder
- *  by Jakub Vojvoda [vojvoda@swdeveloper.sk]
+ *  Simple LPC (Linear Predictive Coding) decoder in C++
+ *  by Jakub Vojvoda [github.com/JakubVojvoda]
  *  2015
+ *
+ * Source code is licensed under MIT License
+ * (for more details see LICENSE)
  * 
  */
 
